@@ -1,0 +1,33 @@
+body {
+    color: black;
+    background: black;
+    margin: 0px;
+    font-family: "Titan One", sans-serif;
+  }
+  
+  header {
+    border-bottom: solid 2px rgb(216, 187, 126);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(216, 187, 126);
+  }
+  
+  section {
+    background: rgb(66, 177, 228);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .chamada-texto {
+    margin-right: 5%;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
